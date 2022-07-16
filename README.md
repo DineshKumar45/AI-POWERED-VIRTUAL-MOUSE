@@ -1,0 +1,5 @@
+# AI-POWERED-VIRTUAL-MOUSE
+An Artificial Intelligence based mouse system that can recognize gestures made by hands and detect finger tips for executing mouse functions on a computer using computer vision. The main objective of the proposed system is achieving conventional mouse functions such as clicking using a built-in camera or a peripheral web camera in the place of a conventional mouse device.
+In our daily life, vision and gestures are important approaches for communication among human beings, and the same role is played by the mouse in Graphical User Interface (GUI) based computers. So, a combined methodology can be used to make a better interactive system for Human-Computer Interaction. Computer vision techniques can be an alternative way for the touch screen
+and create a virtual human-computer interaction device using a webcam.
+      In this project, a finger tracking-based virtual mouse application will be designed and implemented using a regular webcam. To implement this, we will be using the object tracking concept of Artificial Intelligence and the OpenCV module of Python.
